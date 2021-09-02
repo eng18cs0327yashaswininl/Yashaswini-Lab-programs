@@ -1,0 +1,48 @@
+#calc-contain{   
+    margin-top :30px;
+    background: PeachPuff;
+    position: relative;   
+    width: 500px;   
+    border: 2px solid green;   
+    border-radius: 12px;   
+    margin: 0px auto;   
+    padding: 20px 20px 100px 20px; 
+    } 
+    #agh{   
+    left: 10px;
+    text-shadow: 0 0 3px #FF0000;
+    position: relative;   
+    float: right;   
+    margin-top: 15px; 
+    } 
+    #agh p{   
+    font-size: 20px;   
+    font-weight: 900; 
+    } 
+    input[type=button] {   
+    background: rgb(211, 211, 211);   
+    width: 20%;   
+    font-size: 20px;   
+    font-weight: 900;   
+    border-radius: 7px;   
+    margin-left: 13px;   
+    margin-top: 10px; 
+    }
+    input[type=button]:active {   
+        background-color: RED;   
+        box-shadow: 0 5px rgb(114, 0, 0);   
+        transform: translateY(4px); 
+        } 
+        input[type=button]:hover {   
+        background-color: #003300;   
+        color: white; 
+        } 
+         input[type = text] {   
+        position: relative;   
+        display: block;   
+        width: 90%;   
+        margin: 5px auto;  
+        font-size: 20px;   
+        padding: 10px;
+        box-shadow: 4px 0px 12px rgb(189, 188, 201) inset; 
+        }
